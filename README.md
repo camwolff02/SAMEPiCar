@@ -11,6 +11,7 @@ Rasperry Pi controller SCX10 II Deadbolt, built as a project for the Saddleback 
 * [3S Smart LiPo](https://www.axialadventure.com/product/11.1v-5000mah-3s-30c-smart-g2-lipo-battery-ic5/SPMX53S30.html) ($70) - Power
 * [Smart Charger](https://www.axialadventure.com/product/s1100-g2-1x100w-ac-smart-charger/SPMXC2080.html) ($100) - Charger for battery
 * [Raspberry Pi 4B](https://www.pishop.us/product/raspberry-pi-4-model-b-4gb/) ($55) - Computer for RC car control
+* [32GB Micro SD Card](https://www.amazon.com/SanDisk-Extreme-microSDHC-UHS-3-SDSQXAF-032G-GN6MA/dp/B06XWMQ81P/ref=sr_1_6?crid=2P5JDFI5V5W8V&keywords=32gb+micro+sd+card&qid=1693351205&sprefix=32gb+micro+sd+car%2Caps%2C170&sr=8-6) ($11) - Raspberry Pi Storage
 * [18 Gauge Wire](https://www.amazon.com/gp/product/B01LZRV0HV/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) ($11) - Red and black power wires
 
 ### Not Purchased
