@@ -18,10 +18,10 @@ Rasperry Pi controller SCX10 II Deadbolt, built as a project for the Saddleback 
 * [Raspberry Pi Cam V3](https://www.pishop.us/product/raspberry-pi-camera-module-3/) ($25)- Camera for driver in remote teleoperation
 * [Blue LED ring switch](https://www.pishop.us/product/rugged-metal-on-off-switch-with-blue-led-ring-16mm-blue-on-off/) ($5) - On/Off switch
 * [Mini Breadboard](https://www.pishop.us/product/mini-170-tie-points-breadboard/) ($2) - For wiring old RC transmitter circuit to new Pi circuit
-* [Breadboard-frieldly Switch](https://www.pishop.us/product/breadboard-friendly-spdt-slide-switch/) ($1) - Switching between 2.4G RC control and Pi Control
+* [Breadboard-frieldly Switch](https://www.pishop.us/product/breadboard-friendly-spdt-slide-switch/) ($1 x 2) - Switching between 2.4G RC control and Pi Control
 * [M to F Jumper Cables](https://www.pishop.us/product/male-to-female-jumper-cable-x-40-20cm/) ($2.50) - Wiring RC Control and Pi Control
 
-**Price with shipping: $67.69**
+**Price with shipping: $68.72**
 
 ## Useful Links
 [Raspberry Pi RC Car Wiring Tutorial](https://www.youtube.com/watch?v=mrvgF3CD1p4)
