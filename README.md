@@ -26,3 +26,6 @@ Rasperry Pi controller SCX10 II Deadbolt, built as a project for the Saddleback 
 
 ## Useful Links
 [Raspberry Pi RC Car Wiring Tutorial](https://www.youtube.com/watch?v=mrvgF3CD1p4)
+
+## Setting up
+1. Flash SD card using [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
