@@ -52,6 +52,7 @@ Rasperry Pi controller SCX10 II Deadbolt, built as a project for the Saddleback 
   - `sudo apt-get install python3-pip` installs python's tool for downloading python libraries
   - `sudo rm -rf /usr/lib/python3.11/EXTERNALLY-MANAGED` let's us use the base python installation instead of creating virtual environments (don't worry too much about this)
   - `pip3 install RPi.GPIO` package to let us use the GPIO pins on pi, requirements might already be satisfied
+  - `sudo apt-get install python3-smbus` the magic sauce that let's us talk to the Servo HAT
 8. Now's a good time to check the wiring on our servos. Run the following command:
   - `sudo i2cdetect -y 1`
 If your output looks like this:
