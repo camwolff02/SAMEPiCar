@@ -67,6 +67,6 @@ If your output looks like this:
 60: -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
 70: 70 -- -- -- -- -- -- --
 ```
-congrats! it looks like your servos are wired correctly
+  - congrats! it looks like your servos are wired correctly
 8. Alright, finally! It's time to get to the good stuff, some coding! For a development environment, I recommend using VSCode, and installing the Remote-SSH extension. Then pressing the >< symbol in the bottom left, you can select "connect to remote-ssh", enter your ssh command, and boom! You're now able to program on your raspberry pi just like you would with your desktop computer
 
